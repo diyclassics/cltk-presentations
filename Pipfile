@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 cltk = "*"
 jupyter = "*"
+levenshtein = "*"
+python-levenshtein = "*"
+matplotlib = "*"
 
 [dev-packages]
 
