@@ -9,6 +9,7 @@ jupyter = "*"
 levenshtein = "*"
 python-levenshtein = "*"
 matplotlib = "*"
+requests = "*"
 
 [dev-packages]
 
