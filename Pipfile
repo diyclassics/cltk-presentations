@@ -8,6 +8,7 @@ jupyter = "*"
 
 [packages]
 cltk = "*"
+python-levenshtein = "*"
 
 [requires]
 python_version = "3.7"
