@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-cltk ="*"
 jupyter ="*"
 matplotlib ="*"
 requests ="*"
@@ -68,6 +67,7 @@ Pygments ="*"
 PyYAML ="*"
 Send2Trash ="*"
 Whoosh ="*"
+cltk = "*"
 
 [dev-packages]
 
