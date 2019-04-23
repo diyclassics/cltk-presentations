@@ -1,3 +1,2 @@
 pipenv install --system
-python -m pip install -U matplotlib
 python install-corpora.py
