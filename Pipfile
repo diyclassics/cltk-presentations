@@ -7,8 +7,6 @@ verify_ssl = true
 jupyter = "*"
 
 [packages]
-cltk = "*"
-python-levenshtein = "*"
 numpy = "*"
 pandas = "*"
 matplotlib = "*"
