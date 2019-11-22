@@ -12,4 +12,3 @@ sklearn = "*"
 requests = "*"
 
 [dev-packages]
-jupyter = "*"
