@@ -5,7 +5,6 @@ verify_ssl = true
 
 [dev-packages]
 jupyter = "*"
-v = {editable = true,version = "*"}
 
 [packages]
 cltk = "*"
@@ -14,4 +13,3 @@ pandas = "*"
 matplotlib = "*"
 sklearn = "*"
 requests = "*"
-python-levenshtein = "*"
