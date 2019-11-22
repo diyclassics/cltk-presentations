@@ -10,5 +10,6 @@ pandas = "*"
 matplotlib = "*"
 sklearn = "*"
 requests = "*"
+python-levenshtein = "*"
 
 [dev-packages]
