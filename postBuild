@@ -1,2 +1,0 @@
-pipenv install --system
-python install-corpora.py
